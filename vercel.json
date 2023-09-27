@@ -1,6 +1,6 @@
 {
   "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "http://api.mondayui.com",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.mondayui.com",
     "NEXT_PUBLIC_WEBSITE_URL": "https://www.mondayui.com",
     "NEXT_PUBLIC_ADMIN_URL": "https://admin.mondayui.com",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_live_51NnNh4Hn8s8Q16t6a9wFHlXYCIJRLigIkeG0ZaTZd09KnSZXPDy5drbECxCr3DPArXV8vCxbsUJrFc1wS6HXFWXb00HWLC7nXN",
@@ -17,7 +17,7 @@
   },
   "build": {
     "env": {
-    "NEXT_PUBLIC_REST_API_ENDPOINT": "http://api.mondayui.com",
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://api.mondayui.com",
     "NEXT_PUBLIC_WEBSITE_URL": "https://www.mondayui.com",
     "NEXT_PUBLIC_ADMIN_URL": "https://admin.mondayui.com",
       "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_live_51NnNh4Hn8s8Q16t6a9wFHlXYCIJRLigIkeG0ZaTZd09KnSZXPDy5drbECxCr3DPArXV8vCxbsUJrFc1wS6HXFWXb00HWLC7nXN",
