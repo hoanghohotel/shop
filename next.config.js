@@ -13,12 +13,13 @@ module.exports = withPWA({
   i18n,
   images: {
     domains: [
+            'mondayui.com',
+      'api.mondayui.com',
       'localhost',
       '127.0.0.1:8000',
       'maps.googleapis.com',
       's3.amazonaws.com',
-      'mondayui.com',
-      'api.mondayui.com',
+
       'maxui.s3.ap-southeast-1.amazonaws.com',
       'pickbazarlaravel.s3.ap-southeast-1.amazonaws.com',
     ],
