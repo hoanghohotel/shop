@@ -6,14 +6,14 @@ export default function Copyright({ className }: { className?: string }) {
   const { t } = useTranslation('common');
   return (
     <div className={cn('tracking-[0.2px]', className)}>
-      &copy; {t('text-copy-right')} {currentYear} {t('text-copy-right-by')}{' '}
+      &copy; {t('text-copy-right')} {currentYear} Made with ❤️ by
       <a
-        href="https://redq.io"
+        href="https://mondayui.com"
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-brand-dark"
       >
-        RedQ
+        MondayUI
       </a>
       .
     </div>
