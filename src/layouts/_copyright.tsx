@@ -5,8 +5,7 @@ export default function Copyright({ className }: { className?: string }) {
   const currentYear = new Date().getFullYear();
   const { t } = useTranslation('common');
   return (
-    <div className={cn('tracking-[0.2px]', className)}>
-      &copy; {t('text-copy-right')} {currentYear} Made with ❤️ by
+    <div className={cn('tracking-[0.2px]', className)}>Made with ❤️ by 
       <a
         href="https://mondayui.com"
         target="_blank"
