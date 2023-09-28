@@ -13,7 +13,8 @@ module.exports = withPWA({
   i18n,
   images: {
     domains: [
-
+'api.mondayui.org',
+      'mondayui.org',
       'api.mondayui.com',
       'mondayui.com',
       'localhost',
