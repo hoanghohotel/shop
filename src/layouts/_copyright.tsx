@@ -12,7 +12,7 @@ export default function Copyright({ className }: { className?: string }) {
         rel="noopener noreferrer"
         className="hover:text-brand-dark"
       >
-        MondayUI
+         MondayUI
       </a>
       .
     </div>
