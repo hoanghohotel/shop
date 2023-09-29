@@ -11,10 +11,8 @@ export default function Copyright({ className }: { className?: string }) {
         target="_blank"
         rel="noopener noreferrer"
         className="hover:text-brand-dark"
-      >
-         MondayUI
-      </a>
-      .
+      > MondayUI</a>
+
     </div>
   );
 }
